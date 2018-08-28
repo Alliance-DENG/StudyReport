@@ -1,0 +1,1 @@
+全部在NMIST数据集上迭代500次, BP与CNN的input shape都是(1,28,28)
